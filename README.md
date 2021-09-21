@@ -1,4 +1,4 @@
-> # __**VENAX DISCORD TOKEN GRABBER**__<br>
+> # __**VENUS DISCORD TOKEN GRABBER**__<br>
 
 **TUTORIAL VIDEO : https://youtu.be/pf5cHVbGIfs**<br>
 **The program has been made for educational purposes, do not use it for malicious purposes.**<br>
